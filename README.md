@@ -13,7 +13,7 @@ Aqui você encontra todos os arquivos das minhas páginas de apresentação, pro
 - [contato.html](./contato.html)
 - [especialidades.html](./especialidades.html)
 - [style.css](./style.css)
-- [idadeEperiodo.js](./idadeEperiodo.js)
+- [idade.js](./idade.js)
 
 Imagens do projeto:
 
